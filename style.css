@@ -158,13 +158,13 @@ header h1 {
 .div6 {
     text-align: center;
     margin-bottom: 150px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+    
     padding: 20px;
 }
 .div6 p {
     padding-top: 25px;
+    margin: 0 auto;
+
 }
 
 /* footer */
